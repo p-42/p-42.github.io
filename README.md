@@ -1,2 +1,2 @@
-# p-42.github.io
+# P42.pw
 P42 Labs
